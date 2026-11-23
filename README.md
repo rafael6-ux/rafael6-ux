@@ -60,8 +60,9 @@ Projetos envolvendo lógica de programação, APIs, bancos de dados e automaçã
 
 ## 📫 Contato
 
-- 💼 LinkedIn: Adicione seu link
-- 📧 E-mail: Adicione seu contato
+- 💼 LinkedIn: https://www.linkedin.com/in/t%C3%A1cio-rafael-815441396/
+- 📧 E-mail: rafaseo2838@gmail.com
+
 
 ---
 
