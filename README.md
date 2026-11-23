@@ -28,7 +28,7 @@ Desenvolvedor Back-end | Software Developer | Cybersecurity
 ## 💻 Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,ruby,rails,linux,git,github,docker,mysql,postgres,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cs,ruby,rails,linux,git,github,docker,postgres,vscode" />
 </p>
 
 ---
