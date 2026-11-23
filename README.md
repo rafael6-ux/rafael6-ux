@@ -46,18 +46,6 @@ Projetos envolvendo lógica de programação, APIs, bancos de dados e automaçã
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/t%C3%A1cio-rafael-815441396/
